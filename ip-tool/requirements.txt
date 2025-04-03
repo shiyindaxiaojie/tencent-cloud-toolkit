@@ -1,0 +1,10 @@
+python-dotenv>=1.0.0
+kubernetes
+tencentcloud-sdk-python-clb==3.0.1353
+tencentcloud-sdk-python-cvm==3.0.1353
+tencentcloud-sdk-python-cfs==3.0.1353
+tencentcloud-sdk-python-mariadb==3.0.1353
+tencentcloud-sdk-python-redis==3.0.1353
+tencentcloud-sdk-python-ckafka==3.0.1353
+tencentcloud-sdk-python-es==3.0.1353
+tencentcloud-sdk-python-tke==3.0.1353
